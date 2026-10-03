@@ -1,0 +1,7 @@
+study_year,sex,p_lh_pct,mean_age_death_LH,mean_age_death_RH,gap_years
+1990,Both Sexes,7.77,67.26,72.8,5.54
+1990,Male,9.16,63.22,69.14,5.92
+1990,Female,6.56,71.81,76.3,4.49
+2018,Both Sexes,11.45,70.3,72.64,2.34
+2018,Male,13.28,67.09,68.83,1.74
+2018,Female,9.67,73.59,76.27,2.68
